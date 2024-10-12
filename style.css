@@ -1,0 +1,14 @@
+a {
+    text-decoration: none; /* Removes the underline */
+    color: inherit; /* Inherits the text color from the parent element */
+}
+
+#success{
+    width: 100%; 
+    height: 100%; 
+    text-align: center; 
+    color: black; font-size: 18px; 
+    font-family: Inter; 
+    font-weight: 400; 
+    word-wrap: break-word"
+}
